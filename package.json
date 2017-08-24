@@ -1,0 +1,32 @@
+{
+  "name": "@tanthinh9/ytcatcher",
+  "version": "0.0.1",
+  "description": "Youtube catcher - convert Mp4 to Mp3 format",
+  "main": "ytcatcher.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "testnyan": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titango/ytcatcher.git"
+  },
+  "keywords": [
+    "youtube",
+    "convert",
+    "ytcatcher"
+  ],
+  "author": "“Tan <“ngotanthinh92@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/titango/ytcatcher/issues"
+  },
+  "homepage": "https://github.com/titango/ytcatcher#readme",
+  "engine": {
+    "node": ">=8.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
