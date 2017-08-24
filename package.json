@@ -1,6 +1,6 @@
 {
   "name": "@tanthinh9/ytcatcher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Youtube catcher - convert Mp4 to Mp3 format",
   "main": "ytcatcher.js",
   "scripts": {
